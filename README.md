@@ -27,7 +27,7 @@ As someone who is passionate about both reading and programming, I have read man
 
 | Title                                               | Author         | Description                                                                                                              |
 |--------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
-| Microsoft Microservice Architecture Native Applications | [Author Name] | Provides a comprehensive guide to building microservice architecture applications using Microsoft technologies.           |
+| Microsoft Microservice Architecture Native Applications | Microsoft | Provides a comprehensive guide to building microservice architecture applications using Microsoft technologies.           |
 | Designing Data Intensive Applications              | Martin Kleppmann | Must-read for anyone interested in data intensive applications. Covers the latest technologies and techniques.                |
 | Making Sense of Stream Processing                  | Martin Kleppmann | Comprehensive guide to stream processing. Covers fundamental concepts and techniques, with practical examples and case studies. |
 | Google Cloud Platform for Developers              | Ted Hunter and Steven Porter | Comprehensive guide to the Google Cloud Platform. Covers the latest tools and technologies, with practical advice for developers. |
