@@ -27,6 +27,4 @@ Books Read :
 | Making Sense of Stream Processing                  | Martin Kleppmann | Comprehensive guide to stream processing. Covers fundamental concepts and techniques, with practical examples and case studies. |
 | Google Cloud Platform for Developers              | Ted Hunter and Steven Porter | Comprehensive guide to the Google Cloud Platform. Covers the latest tools and technologies, with practical advice for developers. |
 
-When we are developing something, whether it is a new 💻 software application, a 🖥️ hardware device, or a creative 🎨 project, we often feel a sense of excitement and passion in our hearts. 💙 This excitement comes from the sense of possibility and potential that comes with creating something new. 🆕 As we work on our project, we are constantly learning and growing, and we are constantly faced with challenges and obstacles that we must overcome. 💪 This process can be challenging and rewarding, and it often leads to a sense of accomplishment and pride in our work. 🏆 Ultimately, the excitement we feel when we are developing something comes from the sense of purpose and meaning that we derive from our work, and the sense of fulfillment that comes from creating something that we can be proud of. 😊
-
 
