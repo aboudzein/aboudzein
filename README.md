@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Yo, I'm Abdurahman Zeineddin, but you can call me "The Solution Architect Extraordinaire" (or just Zein if you're lazy). 🦸‍♂️
+👋 Yo, I'm Zeineddin, but you can call me "The Solution Architect Extraordinaire" (or just Zein if you're lazy). 🦸‍♂️
 
 🧠 My brain is wired for 🏗️ solution architecture and 💻 tech wizardry. I'm like a sponge for knowledge, always soaking up new info faster than you can say "stack overflow."
 
