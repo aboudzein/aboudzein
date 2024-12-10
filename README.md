@@ -1,4 +1,4 @@
-# Zeineddin (Zein) 
+# Z
 ## Solution Architect & Senior Developer
 
 > Solving complex architectural challenges since 2014
