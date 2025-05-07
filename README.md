@@ -1,32 +1,25 @@
 # **Z** 🦊❄️  
-## **Solution Architect | Senior Developer | AI Explorer**  
+## **Architect | Dev | AI Pro**  
 
-> **Turning complex problems into clean, scalable solutions since 2014.**  
+> **Taming tough problems with slick code since '14.**  
 
-### **What I Do** 🚀  
-- 🏗 **Architecting scalable systems** that don’t just work, but **flow**.  
-- 🧠 **Infusing AI into workflows** to make businesses smarter.  
-- 📊 **Transforming data into insights** that actually make sense.  
-- 🎨 **Building intuitive UIs** that users actually enjoy using.  
+### **Skills** 🔥  
+- 🏗 Scalable systems  
+- 🤖 AI workflows  
+- 📊 Data insights  
+- 🎨 Clean UIs  
 
-### **Tech Stack I Speak Fluently** 💬  
-- **Primary Focus:** TypeScript ⚡ | Python 🐍  
-- **Worked extensively with:** .NET 🏗 (I know my way around enterprise projects)  
-- **Other:** FastAPI | Node.js | NoSQL | AI & ML  
+### **Tech** 💻  
+- TypeScript ⚡ | Python 🐍  
+- .NET | FastAPI | NoSQL | AI  
 
-### **Current Mission** 🎯  
-🚀 **Bridging AI and real-world use cases**—helping businesses **work smarter** with AI-powered solutions while keeping the architecture **clean and scalable**.  
+### **Goal** 🎯  
+🚀 Crafting **smart, scalable** AI solutions.  
 
-### **Books I Swear By** 📚  
-If you’re into **serious system design**, you’ll love these:  
-1️⃣ *Designing Data-Intensive Applications* – Martin Kleppmann  
-2️⃣ *Clean Architecture* – Robert C. Martin  
-3️⃣ *Building Microservices* – Sam Newman  
-4️⃣ *The Pragmatic Programmer* – Hunt & Thomas  
+### **Reads** 📚  
+- *Data-Intensive Apps*  
+- *Clean Architecture*  
 
----
-
-### **📬 Let's Connect!**  
-💬 **Chat, collab, or just geek out?**  
-Find me on Discord → `abdurahmanzeineddin`  
-(Just don’t expect me to fix your bugs at 2 AM… or maybe I will.) 😆🔥  
+### **📲 Connect**  
+Discord: `abdurahmanzeineddin`  
+(May debug at 2 AM.) 😎
